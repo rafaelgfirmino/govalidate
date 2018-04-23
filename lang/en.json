@@ -1,0 +1,15 @@
+[
+  {
+    "tag":"email",
+    "error": "%s must be a valid email address"
+  },
+  {
+    "tag":"email2",
+    "error": "%s must be a valid email address"
+  },
+  {
+    "tag":"required",
+    "error": "this fild is required"
+  }
+]
+
